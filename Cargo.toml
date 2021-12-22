@@ -1,0 +1,14 @@
+[dependencies]
+clap = '3.0.0-rc.7'
+num = '0.4.0'
+
+[dependencies.healpix_fits]
+path = '../healpix_fits'
+
+[dependencies.scorus]
+path = '../scorus'
+
+[package]
+edition = '2021'
+name = 'dipole_ant'
+version = '0.1.0'
