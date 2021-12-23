@@ -1,4 +1,4 @@
-extern crate dipole_ant;
+extern crate space_global_eor;
 
 use num::{
     traits::{
@@ -10,7 +10,7 @@ use healpix_fits::{
     write_map
 };
 
-use dipole_ant::{
+use space_global_eor::{
     free_dipole::{
         e_theta
     }

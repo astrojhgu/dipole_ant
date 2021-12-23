@@ -10,5 +10,5 @@ path = '../scorus'
 
 [package]
 edition = '2021'
-name = 'dipole_ant'
+name = 'space_global_eor'
 version = '0.1.0'
